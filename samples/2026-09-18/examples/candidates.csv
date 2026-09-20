@@ -1,0 +1,15 @@
+tickers,insider_name,role,insider_title,security_title,ownership_form,total_value_usd,stake_change_pct,is_10b5_1,transaction_date,filed_at,tranche_count,news_uid,has_article
+INBX,Lappe Mark,"officer, director",Chief Executive Officer,Common Stock,I,2645399.31,3.5,False,2026-09-08,2026-09-08T20:04:45Z,6,5f38cfc4db62dd8d,True
+MNR,WARD TOM L.,"officer, director, 10% owner",See Remarks,Common Units,I,1999990.8,1.3,False,2026-09-14,2026-09-17T01:16:39Z,1,b9bba121f552e248,True
+TENX,"ADAR1 Capital Management, LLC",10% owner,,Common Stock,I,1814147.48,26.8,False,2026-08-24,2026-08-24T22:12:58Z,3,3fbe23cf6c6181b4,True
+TENX,"ADAR1 Capital Management, LLC",10% owner,,Common Stock,I,1604160,16,False,2026-09-03,2026-09-08T21:16:27Z,1,0c80f5f0a30f7583,True
+XBP,"Avenue RP Opportunities Fund, L.P.",10% owner,,Common Stock,I,1493124.98,636.5,False,2026-09-15,2026-09-17T20:05:57Z,2,1a38afd656eca887,True
+TENX,"ADAR1 Capital Management, LLC",10% owner,,Common Stock,I,1381749.78,15.9,False,2026-09-02,2026-09-02T21:52:43Z,3,a5f085413700f117,True
+XBP,CHADHA PAR,director,,"Common Stock, par value $0.0001 per share",I,579997.18,,False,2026-09-15,2026-09-17T22:45:59Z,1,5be80fe447c551ef,True
+INBX,Kayyem Jon Faiz,director,,Common Stock,I,567580,1.2,False,2026-09-08,2026-09-08T21:23:30Z,1,9d0df282cbb9e4ef,True
+INBX,Kayyem Jon Faiz,director,,Common Stock,I,500000,1.2,False,2026-09-16,2026-09-17T21:46:50Z,1,c7b56ce44532b3ac,True
+INBX,FORSYTH DOUGLAS,director,,Common Stock,I,286617.25,1.1,False,2026-09-08,2026-09-08T20:26:03Z,1,82f0b198534de603,True
+MNR,McMullen William Wallace,"director, 10% owner",,Common Units,D,248895,,False,2026-09-15,2026-09-17T21:11:13Z,1,ef0163524d97c40c,True
+XBP,Avenue Global Opportunities Master Fund LP,10% owner,,Common Stock,I,204875.02,49.6,False,2026-09-15,2026-09-17T20:09:50Z,1,a138876d5c493a23,True
+MNR,McMullen William Wallace,"director, 10% owner",,Common Units,I,140007,0,False,2026-09-15,2026-09-17T21:11:13Z,1,b23b52ffc29efb3b,True
+TENX,Doogan Declan,director,,Common Stock,D,101760,2330.7,False,2026-09-16,2026-09-18T01:30:04Z,1,84e12a4ec11d2122,True

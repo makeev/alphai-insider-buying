@@ -1,0 +1,35 @@
+tickers,insider_name,role,insider_title,security_title,ownership_form,total_value_usd,stake_change_pct,is_10b5_1,transaction_date,filed_at,tranche_count,news_uid,has_article
+INBX,Lappe Mark,"officer, director",Chief Executive Officer,Common Stock,I,2645399.31,3.5,False,2026-09-08,2026-09-08T20:04:45Z,6,5f38cfc4db62dd8d,True
+MNR,WARD TOM L.,"officer, director, 10% owner",See Remarks,Common Units,I,1999990.8,1.3,False,2026-09-14,2026-09-17T01:16:39Z,1,b9bba121f552e248,True
+TENX,"ADAR1 Capital Management, LLC",10% owner,,Common Stock,I,1814147.48,26.8,False,2026-08-24,2026-08-24T22:12:58Z,3,3fbe23cf6c6181b4,True
+TENX,"ADAR1 Capital Management, LLC",10% owner,,Common Stock,I,1604160,16,False,2026-09-03,2026-09-08T21:16:27Z,1,0c80f5f0a30f7583,True
+XBP,"Avenue RP Opportunities Fund, L.P.",10% owner,,Common Stock,I,1493124.98,636.5,False,2026-09-15,2026-09-17T20:05:57Z,2,1a38afd656eca887,True
+TENX,"ADAR1 Capital Management, LLC",10% owner,,Common Stock,I,1381749.78,15.9,False,2026-09-02,2026-09-02T21:52:43Z,3,a5f085413700f117,True
+XBP,CHADHA PAR,director,,"Common Stock, par value $0.0001 per share",I,579997.18,,False,2026-09-15,2026-09-17T22:45:59Z,1,5be80fe447c551ef,True
+INBX,Kayyem Jon Faiz,director,,Common Stock,I,567580,1.2,False,2026-09-08,2026-09-08T21:23:30Z,1,9d0df282cbb9e4ef,True
+INBX,Kayyem Jon Faiz,director,,Common Stock,I,500000,1.2,False,2026-09-16,2026-09-17T21:46:50Z,1,c7b56ce44532b3ac,True
+INBX,FORSYTH DOUGLAS,director,,Common Stock,I,286617.25,1.1,False,2026-09-08,2026-09-08T20:26:03Z,1,82f0b198534de603,True
+MNR,McMullen William Wallace,"director, 10% owner",,Common Units,D,248895,,False,2026-09-15,2026-09-17T21:11:13Z,1,ef0163524d97c40c,True
+XBP,Avenue Global Opportunities Master Fund LP,10% owner,,Common Stock,I,204875.02,49.6,False,2026-09-15,2026-09-17T20:09:50Z,1,a138876d5c493a23,True
+MNR,McMullen William Wallace,"director, 10% owner",,Common Units,I,140007,0,False,2026-09-15,2026-09-17T21:11:13Z,1,b23b52ffc29efb3b,True
+TENX,Doogan Declan,director,,Common Stock,D,101760,2330.7,False,2026-09-16,2026-09-18T01:30:04Z,1,84e12a4ec11d2122,True
+XBP,Jonovic Andrej,"officer, director",Chief Executive Officer,"Common Stock, par value $0.0001 per share",D,89145,14.8,False,2026-09-15,2026-09-17T22:43:57Z,1,40e79422e6e5eb80,True
+ALP,Villani Fiorenzo,"officer, director",See Remarks,Ordinary Shares,D,67856.3,74.9,False,2026-09-16,2026-09-17T22:25:08Z,3,68a38ff9aa5dd705,True
+ALP,Kaiser Brittany,"officer, director",Chief Executive Officer,Ordinary Shares,D,49997.26,126.1,False,2026-09-09,2026-09-14T11:25:28Z,1,c3c92335923244a4,True
+ALP,Villani Fiorenzo,"officer, director",See Remarks,Ordinary Shares,I,41131.07,490.8,False,2026-09-15,2026-09-17T22:25:08Z,2,f257c57a9f32421c,True
+ALP,Villani Fiorenzo,"officer, director",See Remarks,Ordinary Shares,D,35455,46,False,2026-09-09,2026-09-14T11:27:06Z,1,6880f2fad27c93af,True
+XBP,Avramovic Dejan,officer,Chief Financial Officer,"Common Stock, par value $0.0001 per share",D,24997.39,10.4,False,2026-09-15,2026-09-17T22:45:00Z,1,fa9c74e82664d46b,True
+TENX,Giordano Christopher Thomas,"officer, director",CEO,Common Stock,D,20087.18,95.8,False,2026-09-15,2026-09-16T01:38:58Z,2,3d5f5710bca723a2,True
+RVSB,Zamanizadeh Kourosh Nasser,director,,Common Stock,D,19358.82,30.3,False,2026-09-14,2026-09-15T14:50:27Z,2,6e08814722c9e712,True
+RVSB,Wills Bessie Ross,director,,Common Stock,D,11170,4.2,False,2026-09-15,2026-09-17T14:52:09Z,1,6dcf89fef297619b,True
+TENX,STAAB THOMAS R II,officer,Chief Financial Officer,Common Stock,D,10981.12,56.8,False,2026-09-11,2026-09-16T01:30:04Z,1,e832981e5b9d5dc8,True
+RVSB,Sherman Nicole,"officer, director",President/CEO,Common Stock,D,10042.85,1.1,False,2026-09-17,2026-09-17T21:20:06Z,1,f64b3196a03c19ea,True
+RVSB,Graham Stacey,director,,Common Stock,D,9974.82,19.1,False,2026-09-16,2026-09-17T18:42:09Z,1,f7a4eb4da4681b37,True
+DLPN,O'Dowd William IV,"officer, director, 10% owner",Chief Executive Officer,Common Stock,D,6856.08,0.8,False,2026-09-16,2026-09-17T22:40:46Z,1,e87d0682e4f7f97d,True
+ALP,Levitt Wesley Allen,officer,Chief Financial Officer,Ordinary Shares,D,5095.5,,False,2026-09-09,2026-09-12T00:39:13Z,1,b544694caf6561e1,True
+RVSB,Benke Robert,officer,EVP/CCO,Common Stock,D,5050,2.1,False,2026-08-20,2026-08-24T16:56:40Z,1,3e15c3c194bd9734,True
+DLPN,O'Dowd William IV,"officer, director, 10% owner",Chief Executive Officer,Common Stock,D,4879,0.8,True,2026-09-08,2026-09-08T20:38:19Z,1,fcb7950a5c9c8863,True
+DLPN,O'Dowd William IV,"officer, director, 10% owner",Chief Executive Officer,Common Stock,D,4816,0.8,True,2026-09-14,2026-09-14T22:19:19Z,1,4bb4f94a1e285b8d,True
+DLPN,O'Dowd William IV,"officer, director, 10% owner",Chief Executive Officer,Common Stock,D,4715,0.8,True,2026-08-31,2026-09-01T17:06:33Z,1,2b5c0b35ba10674f,True
+DLPN,O'Dowd William IV,"officer, director",Chief Executive Officer,Common Stock,D,4674,0.8,True,2026-08-24,2026-08-24T21:08:32Z,1,adaea1dfa7bab7d8,True
+RVSB,Lightheart Charmaine,officer,EVP/CRDEO,Common Stock,D,568,1.1,False,2026-09-17,2026-09-17T20:15:06Z,1,cef76e4550dd6ea7,True

@@ -1,0 +1,22 @@
+[
+  {
+    "uid": "84e12a4ec11d2122",
+    "index_url": "https://www.sec.gov/Archives/edgar/data/1704234/000119312526394831/0001193125-26-394831-index.htm",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/34956/000119312526394831/ownership.xml"
+  },
+  {
+    "uid": "5be80fe447c551ef",
+    "index_url": "https://www.sec.gov/Archives/edgar/data/1839530/000110465926108653/0001104659-26-108653-index.htm",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/938202/000110465926108653/tm2625608-3_4seq1.xml"
+  },
+  {
+    "uid": "68a38ff9aa5dd705",
+    "index_url": "https://www.sec.gov/Archives/edgar/data/1889272/000117184326006099/0001171843-26-006099-index.htm",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184326006099/ownership.xml"
+  },
+  {
+    "uid": "c7b56ce44532b3ac",
+    "index_url": "https://www.sec.gov/Archives/edgar/data/2007919/000136626826000006/0001366268-26-000006-index.htm",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/1366268/000136626826000006/wk-form4_1789681608.xml"
+  }
+]

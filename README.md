@@ -79,6 +79,6 @@ python3 -m unittest discover -s tests -v
 
 Tests replay every saved report and compare the output byte for byte, check filtering and date boundaries, and independently calculate the four example filings from SEC XML. CI runs them on Python 3.10 and 3.13.
 
-The accompanying DEV article is being prepared as a draft in the series *Market research scripts with AlphAI*. Related examples: [earnings week](https://github.com/makeev/alphai-earnings-week) and the [Polymarket walkthrough](https://dev.to/makeev/build-a-polymarket-research-brief-with-python-and-alphai-1hj6).
+Read the [full DEV walkthrough](https://dev.to/makeev/build-an-insider-buying-screener-with-python-and-sec-form-4-data-4eg1), published September 20, 2026 in the series *Market research scripts with AlphAI*. Related examples: [earnings week](https://github.com/makeev/alphai-earnings-week) and the [Polymarket walkthrough](https://dev.to/makeev/build-a-polymarket-research-brief-with-python-and-alphai-1hj6).
 
 Code is [MIT licensed](LICENSE). Saved API responses and SEC filings are source evidence; the code license does not grant rights to third-party material.

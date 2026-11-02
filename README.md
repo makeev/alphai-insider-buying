@@ -79,6 +79,19 @@ python3 -m unittest discover -s tests -v
 
 Tests replay every saved report and compare the output byte for byte, check filtering and date boundaries, and independently calculate the four example filings from SEC XML. CI runs them on Python 3.10 and 3.13.
 
+## Cluster buys without the loop
+
+The per-ticker loop above is the tutorial's own screen. Since September 2026 the
+API also serves the clustered view directly: `GET /api/news/insider/clusters/`
+returns episodes in which several different insiders of one issuer bought on
+the open market together, with each buyer labeled (`independent`, `plan_like`,
+`unpriced`, `duplicate_of`) so an IPO allocation or a plan lot is not counted as
+a cluster. One request covers the whole market for the last 30 days. The
+official SDKs expose it as `client.news.insider_clusters()` ([Python](https://pypi.org/project/alphai-sdk/), 0.11.0+)
+and `client.news.insiderClusters()` ([TypeScript](https://www.npmjs.com/package/alphai-sdk), 0.10.0+);
+the contract is in the [API reference](https://alphai.io/developers?utm_source=github&utm_medium=readme&utm_campaign=insider_buying).
+This script is unchanged and keeps reproducing the saved samples byte for byte.
+
 Read the [full DEV walkthrough](https://dev.to/makeev/build-an-insider-buying-screener-with-python-and-sec-form-4-data-4eg1), published September 20, 2026 in the series *Market research scripts with AlphAI*. Related examples: [earnings week](https://github.com/makeev/alphai-earnings-week) and the [Polymarket walkthrough](https://dev.to/makeev/build-a-polymarket-research-brief-with-python-and-alphai-1hj6).
 
 Code is [MIT licensed](LICENSE). Saved API responses and SEC filings are source evidence; the code license does not grant rights to third-party material.
